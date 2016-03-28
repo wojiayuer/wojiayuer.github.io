@@ -11,7 +11,7 @@ email: admin@wojiayuer.com
 description: > # this means to ignore newlines until "baseurl:"
   科普国际权威育儿知识，坚持科学育儿，破除愚昧和偏见！
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://wojiayuer.com" # the base hostname & protocol for your site
+url: "http://www.wojiayuer.com" # the base hostname & protocol for your site
 weixin_username: wojiayuer_com
 weibo_username: 我家育儿real
 
